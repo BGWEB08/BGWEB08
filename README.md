@@ -1,14 +1,14 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:1200/1*2xsLeLNqKwIoGOQlw8O6Ug.png)<h1 align="center">
-<h1 align="center">Hi 👋, I'm Batuhan Güneri</h1>
+<h1 align="center">Hi 👋, I'm Batuhan Güneri.</h1>
 <h3 align="center">A passionate Web Developer from Turkey.</h3>
 
 - 🔭 I’m currently working on **HTML5, CSS3 and JavaScript.**
 
-- 🌱 I’m currently learning **React, Express.js**
+- 🌱 I’m currently learning **React, Express.js**.
 
 - 👨‍💻 All of my projects are available at [https://batuhanguneri.vercel.app/](https://batuhanguneri.vercel.app/)
 
-- 💬 Ask me about **Web Developer**
+- 💬 Ask me about **Web Developer**.
 
 - 📫 How to reach me **batuhanguneribusiness@gmail.com**
 
