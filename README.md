@@ -1,5 +1,4 @@
-[
-](https://media.licdn.com/dms/image/D5612AQFMxThwQn7HZg/article-cover_image-shrink_720_1280/0/1697274440798?e=1714003200&v=beta&t=yMaGkSBz2aOa4VMjdevfYr3q00XYNxhokBYeMZkQqSg)<h1 align="center">Hi 👋, I'm Batuhan Güneri</h1>
+[](https://media.licdn.com/dms/image/D5612AQFMxThwQn7HZg/article-cover_image-shrink_720_1280/0/1697274440798?e=1714003200&v=beta&t=yMaGkSBz2aOa4VMjdevfYr3q00XYNxhokBYeMZkQqSg)<h1 align="center">Hi 👋, I'm Batuhan Güneri</h1>
 <h3 align="center">A passionate Web Developer from Turkey.</h3>
 
 - 🌱 I’m currently learning **React, Express.js**.
