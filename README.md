@@ -2,7 +2,9 @@
 <h1 align="center">Hi 👋, I'm Batuhan Güneri</h1>
 <h3 align="center">A passionate Web Developer from Turkey.</h3>
 
-- 🌱 I’m currently learning **React and Express.js**
+- 🔭 I’m currently working on **HTML5, CSS3 and JavaScript.**
+
+- 🌱 I’m currently learning **React, Express.js**
 
 - 👨‍💻 All of my projects are available at [https://batuhanguneri.vercel.app/](https://batuhanguneri.vercel.app/)
 
