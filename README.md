@@ -1,5 +1,4 @@
-[[https://www.google.com/url?sa=i&url=https%3A%2F%2Fskywell.software%2Fblog%2Fhow-to-make-a-website-with-javascript-html-and-css%2F&psig=AOvVaw0noarIk6j8jF7QIYTqBgYN&ust=1708454248218000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJijg5iGuIQDFQAAAAAdAAAAABAD](https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2020/05/Logo.png?resize=1024%2C528&ssl=1)](https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2020/05/Logo.png?resize=1024%2C528&ssl=1)
-<h1 align="center">Hi 👋, I'm Batuhan Güneri</h1>
+[![MasterHead](https://miro.medium.com/v2/resize:fit:1200/1*2xsLeLNqKwIoGOQlw8O6Ug.png)<h1 align="center">Hi 👋, I'm Batuhan Güneri</h1>
 <h3 align="center">A passionate Web Developer from Turkey.</h3>
 
 - 🌱 I’m currently learning **React, Express.js**
