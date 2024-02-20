@@ -4,11 +4,11 @@
 
 - 🔭 I’m currently working on **HTML5, CSS3 and JavaScript.**
 
-- 🌱 I’m currently learning **React, Express.js**.
+- 🌱 I’m currently learning **React and Express.js**.
 
 - 👨‍💻 All of my projects are available at [https://batuhanguneri.vercel.app/](https://batuhanguneri.vercel.app/)
 
-- 💬 Ask me about **Web Developer**.
+- 💬 Ask me about **Web Development**.
 
 - 📫 How to reach me **batuhanguneribusiness@gmail.com**
 
