@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://batuhanguneri.vercel.app/](https://batuhanguneri.vercel.app/)
 
-- 💬 Ask me about **Web Developer**
+- 💬 Ask me about **Web Developer.**
 
 - 📫 How to reach me **batuhanguneribusiness@gmail.com**
 
