@@ -26,5 +26,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bgweb08&show_icons=true&locale=en" alt="bgweb08" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bgweb08&" alt="bgweb08" /></p>
+<p><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=bgweb08&](https://www.nobledesktop.com/image/home-pg-examples/full-stack-certificate.png)" alt="bgweb08" /></p>
 
