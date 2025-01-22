@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Batuhan Güneri</h1>
 <h3 align="center">A passionate MERN Stack Web Developer from Turkey</h3>
 
-- 🔭 I’m currently working on **React, Express.js, Node.js MongoDB, HTML5, CSS3 and JavaScript**
+- 🔭 I’m currently working on **React, Express.js, Node.js MongoDB, HTML5, CSS3 and JavaScript.**
 
 - 👨‍💻 All of my projects are available at [https://batuhanguneri.vercel.app/](https://batuhanguneri.vercel.app/)
 
-- 💬 Ask me about **MERN Stack Web Developer**
+- 💬 Ask me about **MERN Stack Web Developer and Web Designer.**
 
 - 📫 How to reach me **batuhanguneribusiness@gmail.com**
 
