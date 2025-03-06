@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/batuhan-g%C3%BCneri-762919264/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/batuhan-g%c3%bcneri-762919264/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/batuhanguneriweb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/batuhanguneriweb/" height="30" width="40" /></a>
+<a href="[https://instagram.com/https://www.instagram.com/batuhanguneriweb/](https://www.instagram.com/batuhanguneriweb/?igsh=bjU1NGRuMHc2cGlm&utm_source=qr#)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/batuhanguneriweb/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
