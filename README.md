@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **React, Express.js, Node.js MongoDB, HTML5, CSS3 and JavaScript.**
 
-- 👨‍💻 All of my projects are available at [https://batuhanguneri.vercel.app/](https://batuhanguneri.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://batuhanguneri.com/](https://batuhanguneri.com/)
 
 - 💬 Ask me about **MERN Stack Web Developer and Web Designer.**
 
@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/batuhanguneriii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="batuhanguneriii" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/batuhan-g%c3%bcneri-762919264/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/batuhanguneri/" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/batuhanguneri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/batuhanguneri/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/batuhanguneriii/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/batuhanguneriii/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@batuhangunerii/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="batuhan güneri" height="30" width="40" /></a>
 </p>
